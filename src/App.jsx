@@ -3,6 +3,7 @@ import Canvas from "./Canvas";
 import data from "./data";
 import LocomotiveScroll from "locomotive-scroll";
 import Navbar from "./Navbar";
+import Hero from "./Hero";
 const App = () => {
   useEffect(() => {
     const locomotiveScroll = new LocomotiveScroll();
@@ -18,6 +19,7 @@ const App = () => {
         ))}
       </div> */}
       <Navbar />
+      <Hero />
     </>
   );
 };
