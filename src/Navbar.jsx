@@ -49,25 +49,25 @@ const Navbar = () => {
       <div className="h-full w-[500px]">
         <ul className="w-full h-full flex items-center justify-evenly font-serif font-[500] tracking-tighter">
           <li className="h-full group">
-            <a href="" className="h-full flex items-center justify-center selection:bg-foreground selection:text-background">
+            <a href="" className="h-full flex items-center justify-center">
               What we do
             </a>
             <span className="nav-link-underline block group-hover:visible invisible w-0 group-hover:w-full h-[1px] bg-foreground transition-all duration-300"></span>
           </li>
           <li className="h-full group">
-            <a href="" className="h-full flex items-center justify-center selection:bg-foreground selection:text-background">
+            <a href="" className="h-full flex items-center justify-center">
               Who we are
             </a>
             <span className="nav-link-underline block group-hover:visible invisible w-0 group-hover:w-full h-[1px] bg-foreground transition-all duration-300"></span>
           </li>
           <li className="h-full group">
-            <a href="" className="h-full flex items-center justify-center selection:bg-foreground selection:text-background">
+            <a href="" className="h-full flex items-center justify-center">
               How we give back
             </a>
             <span className="nav-link-underline block group-hover:visible invisible w-0 group-hover:w-full h-[1px] bg-foreground transition-all duration-300"></span>
           </li>
           <li className="h-full group">
-            <a href="" className="h-full flex items-center justify-center selection:bg-foreground selection:text-background">
+            <a href="" className="h-full flex items-center justify-center ">
               Talk to us
             </a>
             <span className="nav-link-underline block group-hover:visible invisible w-0 group-hover:w-full h-[1px] bg-foreground transition-all duration-300"></span>

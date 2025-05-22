@@ -8,6 +8,11 @@
   padding: 0;
 }
 
+*::selection{
+  background-color: rgba(var(--foreground));
+  color: rgba(var(--background));
+}
+
 body {
   background-color: rgba(var(--background));
 }
